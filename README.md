@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abel-Namuele
 - 👀 I’m interested in ... programar
-- 🌱 I’m currently learning ...many language
+- 🌱 I’m currently learning ...Javascript,pyhton, php, Laravel, React, React-Native, Django/Django Ninja
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
